@@ -1,0 +1,17 @@
+COMMAND LINE INTERFACE
+3 Main directories exist on a computer: home, user and root directory
+
+dir (directory) => to display the content a folder
+cd (change directory) => to move up/down folder level
+cls => clear interface
+mkdir (make directory) => craete directory (folder) [command: mkdir {folder-name}]
+rmdir (delete directory) => delete a directory (folder) [command: rmdir {folder-name}]
+echo => create file with content [command: echo {content} > {file-name}]
+type => to see the content inside a file [command: type {file-name}]
+del => delete file [command: del {file-name}]
+
+absolute path is more used in development
+
+GIT
+commit => code snap shots
+branch => where commits are stored

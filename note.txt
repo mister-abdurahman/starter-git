@@ -15,3 +15,14 @@ absolute path is more used in development
 GIT
 commit => code snap shots
 branch => where commits are stored
+
+NB:
+Each commit in git has a unique id to identify each commit
+
+git init => initialize a repo
+git status => see information about current git project
+git add <file-name> => add file present in directory to the "staging area"
+[staging area is the area btw our working area and the commit we want to make]
+git commit -m "commit message" => to commit our project 
+// git config --global --edit => to edit git user detail
+git log => gives an overview of all commits inside our current branch

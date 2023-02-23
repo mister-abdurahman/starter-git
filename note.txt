@@ -27,13 +27,8 @@ git add . => add all untracked files and unsaved files to "staging area"
 git commit -m "commit message" => to commit our project 
 // git config --global --edit => to edit git user detail
 git log => gives an overview of all commits inside our current branch
-<<<<<<< HEAD
 git branch => to see current git branch
 git branch -m {new-name} => to change current branch name
 git checkout {specified-branch} => to switch from curren tbranch to a specified branch
 git checkout -b {new-branch-name} => to switch from curent branch to a newly created one "-b".
 git merge {specified-branch} => to merge current branch to specified branch/es
-=======
-
-Now, this is a conflict !
->>>>>>> feature

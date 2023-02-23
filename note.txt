@@ -32,3 +32,13 @@ git branch -m {new-name} => to change current branch name
 git checkout {specified-branch} => to switch from curren tbranch to a specified branch
 git checkout -b {new-branch-name} => to switch from curent branch to a newly created one "-b".
 git merge {specified-branch} => to merge current branch to specified branch/es
+git reset --hard HEAD~{1} => delete & reset current commit and move back {1} step to previous commit
+git branch -D {specified-branch} => delete a branch
+git checkout -- . => to reset your branch to the stage before the latest commit. (used to remove unstaged changes)
+git reset {filename} => to revert & reset a staged commit
+
+GITHUB
+git is installed locally on our mahine and can be put on a cloud-based with github for project collaboration and storage
+'
+We use Github for:
+Cloud storage, Portfolio page, Collaboration, Contribution

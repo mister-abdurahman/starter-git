@@ -27,3 +27,5 @@ git add . => add all untracked files and unsaved files to "staging area"
 git commit -m "commit message" => to commit our project 
 // git config --global --edit => to edit git user detail
 git log => gives an overview of all commits inside our current branch
+
+Now, this is a conflict !
